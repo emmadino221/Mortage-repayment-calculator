@@ -338,4 +338,8 @@ button img {
   button {
     width: 100%;
   }
+
+  .attribution {
+    font-size: 0.7rem;
+  }
 }
